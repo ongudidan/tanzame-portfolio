@@ -2,9 +2,9 @@
 	// Setting up the time zone
 	date_default_timezone_set('Asia/Karachi');
 	// Host Name
-	$db_hostname = 'localhost';
+	$db_hostname = 'mariadb';
 	// Database Name
-	$db_name = 'tanzame';
+	$db_name = 'tanzame-portfolio';
 	// Database Username
 	$db_username = 'root';
 	// Database Password
